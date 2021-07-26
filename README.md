@@ -1,7 +1,7 @@
 # The-VBA-of-Wall-Street
-Using loop to go through stocks to populate them as groups 
+looping through stocks to populate them as groups 
 
-Conditions to give certain results:
+Conditions to give the below results:
     - populate the yearly change of each stock by checking the opening and closing price of each stock
     - counting the percent change 
     - populating the stock volume 
