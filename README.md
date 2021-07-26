@@ -6,6 +6,6 @@ Conditions to give certain results:
     - counting the percent change 
     - populating the stock volume 
 
-Another conditions to check the greatest percentages of the increase and the decrease for the whole stocks 
+More conditions to check the greatest percentages of the increase and the decrease for the whole stocks 
 
 Counters for the accumolations and other mathmatical processes 
